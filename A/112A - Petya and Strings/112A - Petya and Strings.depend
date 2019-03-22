@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553095445 source:e:\informatica\codeforces\112a - petya and strings\main.cpp
+	<iostream>
+	<ctype.h>
+	<string.h>
+

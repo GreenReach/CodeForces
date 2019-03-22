@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553205070 source:e:\informatica\codeforces\281a - word capitalization\main.cpp
+	<iostream>
+	<ctype.h>
+

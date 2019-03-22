@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553211103 source:e:\informatica\codeforces\1132b - discounts\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
