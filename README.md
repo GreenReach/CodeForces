@@ -1,3 +1,3 @@
 # CodeForces
 
-Diverse problems resovled on www.codeforces.com
+Diverse problems resolved on www.codeforces.com
