@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553032489 source:c:\users\radu\desktop\facultate\codefroces\118a - string task\main.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+
