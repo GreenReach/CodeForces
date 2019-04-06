@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554595759 source:e:\informatica\codeforces\520a - pangram\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+

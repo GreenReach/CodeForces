@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554075033 source:e:\informatica\codeforces\59a - word\main.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+
