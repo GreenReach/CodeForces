@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555873449 source:c:\users\robert\desktop\519b - a and b compilation errors\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

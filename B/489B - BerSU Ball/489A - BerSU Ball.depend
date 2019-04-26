@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556319670 source:c:\users\robert\desktop\489a - bersu ball\main.cpp
+	<iostream>
+	<algorithm>
+	<stdlib.h>
+
